@@ -5,3 +5,5 @@ puts "Pero es divertido."
 puts "Y se logra que en la terminal se muestre algo."
 puts "Yo he escrito más fases que tú."
 puts '¡No toques eso!'
+puts "Esta es la nueva línea que se va a imprimir"
+
